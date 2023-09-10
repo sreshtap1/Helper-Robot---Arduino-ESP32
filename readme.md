@@ -13,6 +13,7 @@ Before you can use the robot, there are a few steps you need to follow:
    ```cpp
    const char* ssid = "YourWiFiNetworkName";
    const char* password = "YourWiFiPassword";
+   ```
 
 2. **Configure Pins**: Make sure to configure the pins for the servo motors and motor driver according to your hardware setup. The default pin configurations are as follows:
     ```cpp
@@ -115,6 +116,6 @@ The web interface is a simple webpage created using JavaScript and Bootstrap. En
 
 ## Credits
 
-This project was created by [Sarthak](mailto:sarthaksnh5@gmail.com). If you have any questions or suggestions, feel free to reach out.
+This project was created by [Sreshta](mailto:sreshtapothula2@gmail.com). If you have any questions or suggestions, feel free to reach out.
 
 Happy coding! 🚀
